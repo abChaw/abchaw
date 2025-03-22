@@ -6,22 +6,22 @@ I am a passionate and results-driven software engineer with extensive experience
 - 👔 I have previously worked as a Senior Software Engineer and an Associate Developer, where I contributed to critical business operations, built robust microservices architectures, and drove improvements in API solutions.
   
 - 🔭 Current Projects:
- - Cloud-Native Microservices E-Commerce Platform
-     Developed a single-page application (SPA) using React integrated with a Java/Spring Boot microservices backend.
-     Hosted static assets on Amazon S3 and delivered content globally via Amazon CloudFront for optimal performance.
- - Real-Time Fraud Detection and Prevention Platform
-    Leveraged Apache Kafka to process high-speed transaction data and detect suspicious activities.
-    Trained TensorFlow models to analyze transactions and set up a real-time fraud detection pipeline.
- - Customizable API Gateway
-    Designed a modular API Gateway using Spring Boot and Zuul Proxy to manage API traffic efficiently.
-    Integrated features like rate-limiting, real-time monitoring with Prometheus, and centralized logging for enhanced system security and performance.
+   - Cloud-Native Microservices E-Commerce Platform
+      - Developed a single-page application (SPA) using React integrated with a Java/Spring Boot microservices backend.
+      - Hosted static assets on Amazon S3 and delivered content globally via Amazon CloudFront for optimal performance.
+   - Real-Time Fraud Detection and Prevention Platform
+      - Leveraged Apache Kafka to process high-speed transaction data and detect suspicious activities.
+      - Trained TensorFlow models to analyze transactions and set up a real-time fraud detection pipeline.
+  - Customizable API Gateway
+     - Designed a modular API Gateway using Spring Boot and Zuul Proxy to manage API traffic efficiently.
+     - Integrated features like rate-limiting, real-time monitoring with Prometheus, and centralized logging for enhanced system security and performance.
 
 🌱 I’m currently learning React, Golang
 
 - 📫 How to reach me:
   - Email: abchawla@umich.edu
-  - LinkedIn: ektach • GitHub: aektaBr
-  Feel free to explore my projects and get in touch if you'd like to collaborate or learn more about my work!  
+  - LinkedIn: linkedin.com/in/ektach/ 
+  - Feel free to explore my projects and get in touch if you'd like to collaborate or learn more about my work!  
 <!--
 **akchaw/akchaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
