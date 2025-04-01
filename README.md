@@ -1,22 +1,29 @@
-## Hi there, I am Ekta B 👋 Welcome to my Profile
-I am a passionate and results-driven software engineer with extensive experience in building scalable, cloud-native applications and microservices. Currently, I am pursuing a Master of Science in Computer Science at the University of Michigan with specializations in Data Management & Analytics and Web/Cloud Computing. My background includes significant industry experience, a strong foundation in software design, and a deep interest in innovative API and cloud solutions.
+### Hi there, I am Ekta 👋 Welcome to my Profile
+
+## I'm a Student and a Tech Enthusiast !
+- I'm a passionate Java Developer and a graduate student at the University of Michigan–Dearborn, currently pursuing my Master’s in CIS.
+- I have previously worked as a Senior Software Engineer and an Associate Developer, where I contributed to critical business operations, built robust microservices architectures, and drove improvements in API solutions.
+- One of the things I enjoy most is debugging — I genuinely love digging into logs, identifying issues, and resolving tough bugs. During my time working in industry, solving critical issues and optimizing application behavior became one of the most rewarding parts of my role.
+🌱  Now transitioning toward becoming a Full-Stack Developer, I’m learning React to complement my backend expertise. I’m excited about building seamless front-to-back solutions and have started hands-on projects to bridge both ends of the stack.
 
 <hr/>
 
-- 👔 I have previously worked as a Senior Software Engineer and an Associate Developer, where I contributed to critical business operations, built robust microservices architectures, and drove improvements in API solutions.
-  
-- 🔭 Current Projects:
-   - Cloud-Native Microservices E-Commerce Platform
-      - Developed a single-page application (SPA) using React integrated with a Java/Spring Boot microservices backend.
-      - Hosted static assets on Amazon S3 and delivered content globally via Amazon CloudFront for optimal performance.
-   - Real-Time Fraud Detection and Prevention Platform
-      - Leveraged Apache Kafka to process high-speed transaction data and detect suspicious activities.
-      - Trained TensorFlow models to analyze transactions and set up a real-time fraud detection pipeline.
-  - Customizable API Gateway
-     - Designed a modular API Gateway using Spring Boot and Zuul Proxy to manage API traffic efficiently.
-     - Integrated features like rate-limiting, real-time monitoring with Prometheus, and centralized logging for enhanced system security and performance.
+🔧
+- Languages – Java, Python, SQL, JavaScript (React.js), HTML
+- Frameworks, Libraries, Tools - Springboot, Maven, Gradle, Node.js, Jira, SonarQube, Postman
+- Version Control – Git, Gitlab
+- Build Tools – Maven, Gradle
+- Databases – MySQL, PostgreSQL, MongoDB, DynamoDB
+- Cloud Platforms – Amazon Web Services (AWS)
+- Operating Systems – Linux (Ubuntu), Windows, macOS
 
-🌱 I’m currently learning React, Golang
+☁️ Amazon Web Services (AWS) Experience:
+- Compute & Deployment – EC2 (instance setup, security groups), Elastic Beanstalk (application 
+ deployment), AWS Lambda (serverless functions)
+- Storage & Backup – S3 (object storage, lifecycle rules), EBS (volume management)
+- Database Services – RDS (relational DB provisioning), DynamoDB (NoSQL workloads)
+- Monitoring & Logging – CloudWatch (log analysis, alarms)
+- Security & Access Control – IAM (users, roles, policies)
 
 - 📫 How to reach me:
   - Email: abchawla@umich.edu
