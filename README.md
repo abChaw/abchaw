@@ -1,10 +1,9 @@
-### Hi there, I am Ekta 👋 Welcome to my Profile
-
-## I'm a Student and a Tech Enthusiast !
-- I'm a passionate Java Developer and a graduate student at the University of Michigan–Dearborn, currently pursuing my Master’s in CIS.
-- I have previously worked as a Senior Software Engineer and an Associate Developer, where I contributed to critical business operations, built robust microservices architectures, and drove improvements in API solutions.
-- One of the things I enjoy most is debugging — I genuinely love digging into logs, identifying issues, and resolving tough bugs. During my time working in industry, solving critical issues and optimizing application behavior became one of the most rewarding parts of my role.
-- 🌱  Now transitioning toward becoming a Full-Stack Developer, I’m learning React to complement my backend expertise. I’m excited about building seamless front-to-back solutions and have started hands-on projects to bridge both ends of the stack.
+### Hi there,👋 
+### Welcome to my Profile! I am Ekta.
+- I'm a graduate student at the University of Michigan and a passionate Backend Developer.
+- I have previously worked as a Senior Software Engineer, where I contributed to critical business operations, built robust microservices architectures, and drove improvements in API solutions.
+- One of the things I enjoy most is debugging — I genuinely love digging into logs, identifying issues, and resolving tough bugs.
+- 🌱  Learning React to complement my backend expertise. 
 
 <hr/>
 
