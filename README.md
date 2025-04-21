@@ -26,7 +26,7 @@
 
 - 📫 How to reach me:
   - Email: abchawla@umich.edu
-  - LinkedIn: linkedin.com/in/ektach/ 
+  - LinkedIn: linkedin.com/in/abchaw/ 
   - Feel free to explore my projects and get in touch if you'd like to collaborate or learn more about my work!  
 <!--
 **akchaw/akchaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
