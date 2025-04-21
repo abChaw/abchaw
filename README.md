@@ -1,9 +1,9 @@
 ### Hi there,👋 
 ### Welcome to my Profile! I am Ekta.
-- I'm a graduate student at the University of Michigan and a passionate Backend Developer.
+🌱 I'm a graduate student at the University of Michigan and a passionate Backend Developer.
 - I have previously worked as a Senior Software Engineer, where I contributed to critical business operations, built robust microservices architectures, and drove improvements in API solutions.
 - I genuinely love digging into logs, identifying issues, and resolving tough bugs.
-- 🌱  Learning React to complement my backend expertise. 
+- Learning React to complement my backend expertise. 
 
 <hr/>
 
